@@ -357,5 +357,8 @@ button:focus {
     left: 100%;
   }
 }
-
+.footer-credit a {
+  text-decoration: none;
+  text-shadow: #5e2ced;
+}
 /*************footer End*****************/
